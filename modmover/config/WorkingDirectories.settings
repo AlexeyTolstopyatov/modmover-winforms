@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="WorkingDirectories">
+  <Profiles />
+  <Settings>
+    <Setting Name="MinecraftDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Program Files\Tlauncher\legacy\Minecraft\game\mods</Value>
+    </Setting>
+    <Setting Name="CommonDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\mod</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
