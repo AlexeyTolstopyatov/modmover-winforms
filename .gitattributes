@@ -14,6 +14,8 @@
 *.vb diff=vbnet
 *.md diff=markdown
 
+*.md linguist-detectable=true
+*.vb linguist-detectable=true
 ###############################################################################
 # Set the merge driver for project and solution files
 #
